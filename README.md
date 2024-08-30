@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 # Quick Sort
 
@@ -9,6 +9,7 @@ Quick Sort merupakan metode pengurutan yang sangat efisien dan sering dipakai un
 # Kompleksitas
 
 Dalam kasus rata-rata, Quick Sort cukup efisien dengan kompleksitas waktu O(n log n), di mana n adalah jumlah elemen dalam array. Ini terjadi ketika pivot membagi array menjadi dua bagian yang hampir sama besar.
+
 # Pro & Cons
 ## Kelebihan
 - **Efisien**: Waktu rata-rata untuk Quick Sort adalah O(n log n), menjadikannya salah satu algoritma pengurutan tercepat untuk array.
